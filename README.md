@@ -29,9 +29,6 @@
 
 ---
 
-### 📊 Mis estadisticas : 
-
--
 
 
 
