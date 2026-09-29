@@ -61,36 +61,6 @@ aplicando conceptos relacionados con:
 > destinados al aprendizaje y la práctica controlada.
 
 ---
-
-## 💻 Lenguajes & Tecnologías
-
-### 🐍 Desarrollo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
-</p>
-
-### 🛡️ Ciberseguridad
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash" />
-</p>
-
-### ☁️ Cloud & Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
-</p>
-
-### 📊 Datos & Business Intelligence
-
-- Power BI
-- SQL Server
-- Python
-- APIs
-- Automatización de procesos
-- Análisis de datos
-- ETL
 ## 💻 Lenguajes & Tecnologías
 
 ### 🔄 Desarrollo
