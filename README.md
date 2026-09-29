@@ -190,3 +190,32 @@ Data
      ├── SQL Server
      ├── ETL
      └── Business Intelligence
+
+```
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="https://github.com/ZelidethPF" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ZelidethPF-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:TU_CORREO@ejemplo.com">
+  <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Gracias por visitar mi perfil
+
+**Code. Learn. Build. Secure. Repeat. ☕🔐**
+
+© 2026 ZelidethPF · Todos los derechos reservados.
+
+</div>
