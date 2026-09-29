@@ -1,6 +1,13 @@
 <div id="header" align="center">
-<h1 align="center">Hola👋, Soy ZelidethPF</h1>
-<H3 align="center"> Soy de Chile Titulada de Tecnico en programación y Analisis de sistema, estoy realizando la continuidad de estudio en Ingeniería en informatica mención desarrollo de sistemas. Todos los días sigo aprendiendo😁 </h3>
+  <h1 align="center">¡Hola 👋, soy ZelidethPF!</h1>
+  <h3 align="center">
+    Ingeniera de Ejecución en Informática 💻
+    <br>
+    Actualmente cursando la continuidad de estudios para obtener la
+    Licenciatura en Ingeniería en Ciberseguridad 🔐
+    <br>
+    Apasionada por el desarrollo, la tecnología, los datos y la ciberseguridad 🚀
+  </h3>
 </div>
 
 <div id="badges" align="center">
